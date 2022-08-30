@@ -1,0 +1,44 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: peachpuff;
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: auto;
+    width: 700px;
+    outline: thick solid white;
+    border-radius: 12px;
+}
+.caption {
+    text-align: justify;
+}
+.data {
+    float: right;
+    clear: both;
+    list-style-position: inside;
+}
+#titles1 {
+    background-color: white;
+    text-align: center;
+    list-style-type: none;
+    margin: 0px 500px 0px;
+    font-size: 28px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.link {
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+}
